@@ -1,4 +1,4 @@
-# Music-signal-Study
+# Music Signal Study
 
 
 In this project, we conducted a signal study using python. We created a music signal, corrupted it, then repaired it using frequency studies and the scipy library. We also verified this by plotting the signal in differrent stages using matplotlib.
